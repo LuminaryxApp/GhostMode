@@ -1,0 +1,10 @@
+{
+  "name": "ghost-mode",
+  "version": "0.0.1",
+  "description": "Removes AI attribution markers from commits and code, making work appear human-authored",
+  "author": {
+    "name": "Community",
+    "email": "community@example.com"
+  },
+  "keywords": ["privacy", "attribution", "stealth", "commits", "git"]
+}
