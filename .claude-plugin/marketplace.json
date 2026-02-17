@@ -10,7 +10,7 @@
     {
       "name": "ghost-mode",
       "description": "Write code indistinguishable from human developers. Eliminates AI markers and uses authentic patterns.",
-      "source": ".",
+      "source": "./",
       "category": "development",
       "version": "1.0.0",
       "author": {
